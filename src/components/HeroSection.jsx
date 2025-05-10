@@ -22,7 +22,7 @@ export function HeroSection() {
       <div className="-z-10 absolute bg-gradient-to-b from-70% from-transparent inset-0 to-black"></div>
       <div className="flex flex-col h-screen justify-end pb-20 relative z-20">
         <img className="p-4 w-full" src={logo} alt="Logo Restaura" />
-        <p className="p-4 text-lg text-white tracking-tighter">Paris</p>
+        <p className="p-4 text-2xl text-white/70 tracking-wider">Paris</p>
       </div>
       <div></div>
     </section>

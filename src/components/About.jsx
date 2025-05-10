@@ -15,9 +15,9 @@ export function About() {
             <h2 className="lg:text-6xl text-4xl tracking-tighter">
               {ABOUT.header}
             </h2>
-            <span className="bg-amber-300/80 h-1.5 inline-block lg:-rotate-3 mb-8 mt-1 w-36"></span>
+            <span className="-rotate-3 bg-linear-to-r from-20% from-amber-800 h-1 inline-block lg:w-46 mb-6 mt-2 rounded-sm to-amber-300 w-28"></span>
 
-            <p className="leading-relaxed lg:max-w-xl m-8 text-2xl tracking-tight">
+            <p className="leading-relaxed lg:max-w-xl m-8 text-2xl text-balance text-white/70 tracking-tight">
               {ABOUT.content}
             </p>
           </div>

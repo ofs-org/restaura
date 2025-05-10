@@ -10,7 +10,9 @@ export function DishCard({ project }) {
         <h3 className="font-bold mb-2 text-2xl tracking-tighter">
           {project.title}
         </h3>
-        <p className="text-sm">{project.description}</p>
+        <p className="text-balance text-sm text-white/70">
+          {project.description}
+        </p>
       </div>
     </div>
   );
