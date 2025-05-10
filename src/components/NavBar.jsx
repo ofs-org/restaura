@@ -25,7 +25,11 @@ export function NavBar() {
   return (
     <nav className="fixed flex flex-col items-center justify-center top-4 w-full z-50">
       <div className="backdrop-blur-lg flex items-center justify-between lg:m-2 lg:rounded-full lg:shadow-lg lg:w-[50rem] overflow-y-hidden p-4 w-full">
-        <img src={logo} alt=" logo Restaura" width={80} height={80} />
+        <a href="#intro">
+          {" "}
+          <img src={logo} alt=" logo Restaura" width={80} height={80} />
+        </a>
+
         <div className="hidden lg:flex space-x-6">
           {LINKS.map((link, index) => (
             <a

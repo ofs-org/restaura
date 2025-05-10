@@ -4,7 +4,10 @@ import logo from "../assets/logo.png";
 
 export function HeroSection() {
   return (
-    <section className="flex h-screen items-center justify-center relative w-screen">
+    <section
+      className="flex h-screen items-center justify-center relative w-screen"
+      id="intro"
+    >
       <div className="-z-20 absolute h-full inset-0 overflow-hidden w-full">
         <video
           className="h-full object-cover w-full"
