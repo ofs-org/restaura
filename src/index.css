@@ -2,4 +2,9 @@
 
 :root {
   --font-sans: "Inter", sans-serif;
+  --black: #000;
+}
+
+body {
+  background-color: var(--black);
 }

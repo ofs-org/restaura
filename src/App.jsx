@@ -1,3 +1,5 @@
+import { About } from "./components/About";
+import { Dishes } from "./components/Dishes";
 import { HeroSection } from "./components/HeroSection";
 import { NavBar } from "./components/NavBar";
 export function App() {
@@ -5,6 +7,8 @@ export function App() {
     <main className="antialiased overflow-hidden text-neutral-200">
       <HeroSection />
       <NavBar />
+      <Dishes />
+      <About />
     </main>
   );
 }
