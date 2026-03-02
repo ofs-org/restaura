@@ -16,76 +16,79 @@ import japanese from "../assets/japanese.jpeg";
 import { FaXTwitter, FaFacebook, FaInstagram } from "react-icons/fa6";
 
 export const LINKS = [
-  { text: "Dishes", targetId: "dishes" },
-  { text: "About", targetId: "about" },
-  { text: "Mission", targetId: "mission" },
-  { text: "Expertise", targetId: "expertise" },
-  { text: "Review", targetId: "review" },
-  { text: "Contact", targetId: "contact" },
+  { text: "Pratos", targetId: "dishes" },
+  { text: "Sobre", targetId: "about" },
+  { text: "Missão", targetId: "mission" },
+  { text: "Especialização", targetId: "expertise" },
+  { text: "Análise", targetId: "review" },
+  { text: "Contato", targetId: "contact" },
 ];
 
 export const DISHES = [
   {
     image: dish1,
     title: "Spaghetti Carbonara",
-    description: "Creamy pasta with bacon and cheese",
+    description: "Massa cremosa com bacon e queijo",
   },
   {
     image: dish2,
     title: "Chicken Tikka Masala",
-    description: "Indian curry with tender chicken in spicy sauce",
+    description: "Curry indiano com frango macio em molho picante",
   },
   {
     image: dish3,
     title: "Caprese Salad",
-    description: "Fresh tomatoes, mozzarella, and basil with balsamic glaze",
+    description:
+      "Tomates frescos, muçarela e manjericão com redução de vinagre balsâmico",
   },
   {
     image: dish4,
     title: "Sushi Roll",
-    description: "Assorted seafood and vegetables wrapped in seaweed and rice",
+    description: "Frutos do mar e legumes variados enrolados em alga e arroz",
   },
   {
     image: dish5,
-    title: "Chocolate Lava Cake",
-    description: "Decadent chocolate cake with a gooey center",
+    title: "Oatmeal",
+    description:
+      "Mingau de aveia cremoso com laranja, mirtilos e chocolate amargo — uma opção nutritiva e equilibrada para o café da manhã.",
   },
   {
     image: dish6,
     title: "Greek Salad",
-    description: "Crisp lettuce, olives, feta cheese, and tangy dressing",
+    description: "Alface crocante, azeitonas, queijo feta e molho agridoce",
   },
   {
     image: dish7,
     title: "Pad Thai",
-    description: "Stir-fried rice noodles with shrimp, tofu, and peanuts",
+    description: "Macarrão de arroz salteado com camarão, tofu e amendoim",
   },
   {
     image: dish8,
     title: "Peking Duck",
-    description: "Crispy duck with pancakes, cucumber, and hoisin sauce",
+    description: "Pato crocante servido com panquecas, pepino e molho hoisin",
   },
   {
     image: dish9,
     title: "Beef Wellington",
-    description: "Tender beef filet wrapped in pastry with mushrooms and herbs",
+    description:
+      "Filé de carne macio envolto em massa folhada com cogumelos e ervas",
   },
   {
     image: dish10,
-    title: "Tiramisu",
+    title: "Ramen",
     description:
-      "Italian dessert with layers of coffee-soaked biscuits and mascarpone",
+      "Ramen com macarrão em caldo quente, servido com ovo cozido, cebolinha e pimenta fatiada.",
   },
 ];
 
 export const ABOUT = {
-  header: "We love cooking!",
+  header: "Nós Adoramos cozinhar",
   content:
-    "At Restaura, we believe that great food goes beyond taste; it tells a story of dedication and creativity. From our chef's signature creations to our attentive service, every detail is curated to ensure your visit is nothing short of exceptional. Whether you're savoring our renowned Tikka Kebab or exploring our diverse menu inspired by global flavors, each dish is a celebration of flavor and innovation. Join us for a culinary journey where every bite leaves a lasting impression. Experience Restaura—where every meal is a masterpiece.",
+    "No Restaura, acreditamos que a boa comida vai além do sabor; ela conta uma história de dedicação e criatividade. Das criações exclusivas do nosso chef ao nosso serviço atencioso, cada detalhe é cuidadosamente pensado para garantir que sua visita seja simplesmente excepcional. Seja saboreando nosso renomado Tikka Kebab ou explorando nosso cardápio diversificado inspirado em sabores do mundo todo, cada prato é uma celebração de sabor e inovação. Junte-se a nós em uma jornada culinária onde cada mordida deixa uma impressão duradoura. Experimente o Restaura — onde cada refeição é uma obra-prima.",
 };
 
 export const MISSION =
-  "At our restaurant, our mission is to create delicious and memorable dining experiences.";
+  "Em nosso restaurante, nossa missão é criar experiências gastronômicas deliciosas e memoráveis.";
 
 export const CUSINES = [
   {
@@ -93,21 +96,21 @@ export const CUSINES = [
     image: italian,
     title: "Italian",
     description:
-      "Experience the flavors of Italy with our exquisite Italian cuisine, featuring traditional recipes and contemporary dishes.",
+      "Descubra os sabores da Itália com a nossa requintada cozinha italiana, que apresenta receitas tradicionais e pratos contemporâneos.",
   },
   {
     number: "02.",
     image: japanese,
     title: "Japanese",
     description:
-      "Delight in the art of Japanese culinary excellence, offering a fusion of classic and modern flavors.",
+      "Delicie-se com a arte da excelência culinária japonesa, que oferece uma fusão de sabores clássicos e modernos.",
   },
   {
     number: "03.",
     image: indian,
     title: "Indian",
     description:
-      "Indulge in the rich and diverse tastes of India, with a menu that celebrates the country's culinary heritage.",
+      "Delicie-se com os sabores ricos e diversos da Índia, com um menu que celebra a herança culinária do país.",
   },
 ];
 
@@ -115,7 +118,7 @@ export const REVIEW = {
   name: "Xaviour Fernando",
   profession: "Food Critic",
   content:
-    "“As a seasoned food critic, my expectations are always high when stepping into a new dining establishment. Restaura, with its unassuming exterior and elegantly designed interior, promised a unique culinary experience from the moment I walked in. And I must say, it delivered beyond my expectations.”",
+    " “Como crítico gastronômico experiente, minhas expectativas são sempre altas ao entrar em um novo restaurante. O Restaura, com sua fachada discreta e interior elegantemente decorado, prometia uma experiência culinária única desde o momento em que entrei. E devo dizer que superou minhas expectativas.” ",
 };
 
 export const CONTACT = [

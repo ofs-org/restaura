@@ -3,7 +3,7 @@ import { CONTACT } from "../utils/data";
 const ContactSection = () => {
   return (
     <section id="contact" className="container mx-auto py-16">
-      <h2 className="Lg:text-4xl mb-8 text-center text-3xl">Contact Us</h2>
+      <h2 className="Lg:text-4xl mb-8 text-center text-3xl">contate-nos</h2>
       <div className="text-neutral-400">
         {CONTACT.map((detail) => (
           <p
