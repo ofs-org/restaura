@@ -2,9 +2,8 @@ import { CONTACT } from "../utils/data";
 
 const ContactSection = () => {
   return (
-
-      <h2 className="Lg:text-4xl mb-8 text-center text-3xl">Contate-nos</h2>
-
+    <section id="contact" className="container mx-auto mb-8">
+      <h2 className="lg:text-4xl mb-8 text-center text-3xl">Contate-nos</h2>
       <div className="text-neutral-400">
         {CONTACT.map((detail) => (
           <p
