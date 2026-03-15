@@ -10,8 +10,8 @@
 
 [![React](https://img.shields.io/badge/React-19.0.0-61DAFB?style=plastic&logo=react&logoColor=000000)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-6.3.1-B73BFE?style=plastic&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.1.5-0EA5E9?style=plastic&logo=tailwindcss&logoColor=FFFFFF)](https://tailwindcss.com/)
-[![Framer Motion](https://img.shields.io/badge/Framer%20Motion-12.15.0-0055FF?style=plastic&logo=framer&logoColor=FFFFFF)](https://www.framer.com/motion/)
+[![Tailwind](https://img.shields.io/badge/TailwindCSS-4.1.5-0EA5E9?style=plastic&logo=tailwindcss&logoColor=FFFFFF)](https://tailwindcss.com/)
+[![Motion](https://img.shields.io/badge/Framer%20Motion-12.15.0-0055FF?style=plastic&logo=framer&logoColor=FFFFFF)](https://www.framer.com/motion/)
 [![React Icons](https://img.shields.io/badge/React%20Icons-5.5.0-20232A?style=plastic&logo=react&logoColor=61DAFB)](https://react-icons.github.io/react-icons/)[![ESLint](https://img.shields.io/badge/ESLint-9.22.0-4B32C3?style=plastic&logo=eslint&logoColor=FFFFFF)](https://eslint.org/)
 [![Prettier](https://img.shields.io/badge/Prettier-3.5.3-F7B93E?style=plastic&logo=prettier&logoColor=000000)](https://prettier.io/)
 
