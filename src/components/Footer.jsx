@@ -19,7 +19,13 @@ const Footer = () => {
         })}
       </div>
       <p className="mt-8 text-center tracking-tighter text-neutral-500">
-        &copy;compileTab. All rights reserved. 2025
+        <a
+          href="https://www.linkedin.com/in/oliveira-emmanuel/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          &copy;Emmanuel Oliveira | OFS - 2026
+        </a>
       </p>
     </div>
   );

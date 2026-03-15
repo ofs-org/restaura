@@ -2,6 +2,8 @@
 
 ## 🍽️ Restaura – Landing Page para Restaurantes Modernos
 
+![Restaura – Experiência Gastronômica Digital](https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg?auto=compress&cs=tinysrgb&w=568&h=320&fit=crop "Restaura – Experiência Gastronômica Digital")
+
 <!-- Badges principais do projeto -->
 
 [![React](https://img.shields.io/badge/React-19.0.0-61DAFB?style=plastic&logo=react&logoColor=000000)](https://react.dev/)
@@ -21,8 +23,6 @@
 
 <!-- Banner -->
 
-![Restaura – Experiência Gastronômica Digital](https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg?auto=compress&cs=tinysrgb&w=568&h=320&fit=crop "Restaura – Experiência Gastronômica Digital")
-
 **Restaura** é uma landing page moderna e responsiva para restaurantes, cafés e negócios gastronômicos que desejam apresentar seu cardápio, missão, avaliações de clientes e informações de contato de forma elegante e envolvente.
 
 </div>
@@ -33,17 +33,19 @@
 
 <!-- Menu com ícones representando os tópicos -->
 
-[🏠 Início](#-restaura--landing-page-para-restaurantes-modernos) ・
-[ℹ️ Sobre](#-sobre) ・
-[🧩 Tecnologias](#-tecnologias) ・
-[✨ Funcionalidades](#-funcionalidades) ・
-[🗂️ Arquitetura-de-dados](#-arquitetura-de-dados) ・
-[📁 Estrutura-do-projeto](#-estrutura-do-projeto) ・
-[⚙️ Configuração](#-configuração) ・
-[📜 Scripts-disponíveis](#-scripts-disponíveis) ・
-[🛣️ Rotas](#-rotas) ・
-[🤝 Contribuidores--proprietário](#-contributors-or-owners) ・
-[📞 Contato](#-contact) ・
+`Menu`
+
+[🏠 Início](#-restaura--landing-page-para-restaurantes-modernos) ・ <br>
+[ℹ️ Sobre](#-sobre) ・ <br>
+[🧩 Tecnologias](#-tecnologias) ・ <br>
+[✨ Funcionalidades](#-funcionalidades) ・ <br>
+[🗂️ Arquitetura-de-dados](#-arquitetura-de-dados) ・ <br>
+[📁 Estrutura-do-projeto](#-estrutura-do-projeto) ・ <br>
+[⚙️ Configuração](#-configuração) ・ <br>
+[📜 Scripts-disponíveis](#-scripts-disponíveis) ・ <br>
+[🛣️ Rotas](#-rotas) ・ <br>
+[🤝 Contribuidores--proprietário](#-contributors-or-owners) ・ <br
+[📞 Contato](#-contact) ・<br>
 [📄 Licença](#-license)
 
 </div>
@@ -85,10 +87,10 @@ O objetivo principal é **demonstrar boas práticas de UI/UX com React + Vite + 
 ### ✨ Funcionalidades
 
 - **Seção Hero / Banner principal**  
-  Apresenta o nome do restaurante, chamada principal e botão de ação (CTA) para explorar o cardápio ou fazer reserva.
+  Apresenta o nome do restaurante, com um vídeo de fundo.
 
 - **Seção de Pratos em Destaque**  
-  Lista de pratos com imagens, descrições e preços, utilizando o componente `DishCard`.
+  Lista de pratos com imagens e descrições, utilizando o componente `DishCard`.
 
 - **Seção de Missão / Sobre o Restaurante**  
   Explica a proposta de valor, conceito e diferenciais do restaurante.
@@ -97,7 +99,7 @@ O objetivo principal é **demonstrar boas práticas de UI/UX com React + Vite + 
   Mostra os tipos de culinária, técnicas ou especialidades do restaurante.
 
 - **Seção de Avaliações (Reviews)**  
-  Depoimentos de clientes para reforçar a credibilidade do estabelecimento.
+  Fotos de clientes que reforçam a credibilidade do estabelecimento.
 
 - **Seção de Contato**  
   Informações de endereço, telefone, redes sociais e formas de contato.
@@ -116,7 +118,7 @@ Esta seção documenta como os dados são gerenciados na aplicação.
 Atualmente, o projeto utiliza **dados locais** definidos em `src/utils/data.js`, representando pratos, depoimentos, seções de conteúdo e demais informações exibidas na interface.  
 Essa abordagem facilita a prototipação e pode ser posteriormente substituída por uma API real.
 
-> Caso seja necessário integrar com uma API real. 
+> Caso seja necessário integrar com uma API real.
 
 ---
 
@@ -197,7 +199,6 @@ Todas as seções (Hero, Sobre, Pratos, Avaliações, Contato, etc.) são render
 
 - [x] <img height="64px" src="https://res.cloudinary.com/delo0gvyb/image/upload/v1752287431/profile_mjvmdb.png"><br>
 - [x] <small>Emmanuel Oliveira</small>
-  
 - [x] developed by 💖 [Emmanuel Oliveira](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit)<br>
 - [x] &copy; Todos os Direitos Reservados
 
@@ -268,6 +269,5 @@ Todas as seções (Hero, Sobre, Pratos, Avaliações, Contato, etc.) são render
 - [x] Released in 2026 – This project is under the **MIT license**.<br>
 - [x] <br>
 - [x] <div align="center">
-- [x] <strong>⭐ Se este projeto foi útil para você, considere dar uma estrela!</strong> 
+- [x] <strong>⭐ Se este projeto foi útil para você, considere dar uma estrela!</strong>
 - [x] </div>
-
