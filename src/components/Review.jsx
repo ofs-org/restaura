@@ -1,9 +1,10 @@
-import { REVIEW } from "../utils/data";
-import xaviour from "../assets/xaviour.jpeg";
 import customer1 from "../assets/customer1.jpeg";
 import customer2 from "../assets/customer2.jpeg";
 import customer3 from "../assets/customer3.jpeg";
 import customer4 from "../assets/customer4.jpeg";
+import xaviour from "../assets/xaviour.jpeg";
+import { REVIEW } from "../utils/data";
+// eslint-disable-next-line no-unused-vars
 import { motion } from "framer-motion";
 
 const containerVariants = {
@@ -35,7 +36,7 @@ const Review = () => {
           variants={ItemVariants}
           className="mg:mt-40 lg:text[3.5rem] mb-10 text-3xl leading-normal font-light tracking-tighter lg:mx-40"
         >
-          .{REVIEW.content}
+          {REVIEW.content}
         </motion.p>
         <motion.div
           variants={ItemVariants}

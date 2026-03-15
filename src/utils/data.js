@@ -16,76 +16,79 @@ import japanese from "../assets/japanese.jpeg";
 import { FaFacebook, FaInstagram, FaXTwitter } from "react-icons/fa6";
 
 export const LINKS = [
-  { text: "Dishes", targetId: "dishes" },
-  { text: "About", targetId: "about" },
-  { text: "Mission", targetId: "mission" },
-  { text: "Expertise", targetId: "expertise" },
-  { text: "Review", targetId: "review" },
-  { text: "Contact", targetId: "contact" },
+  { text: "Pratos", targetId: "dishes" },
+  { text: "Sobre", targetId: "about" },
+  { text: "Missão", targetId: "mission" },
+  { text: "Especialidade", targetId: "expertise" },
+  { text: "Avaliações", targetId: "review" },
+  { text: "Contato", targetId: "contact" },
 ];
 
 export const DISHES = [
   {
     image: dish1,
     title: "Spaghetti Carbonara",
-    description: "Creamy pasta with bacon and cheese",
+    description: "Massa cremosa com bacon e queijo",
   },
   {
     image: dish2,
     title: "Chicken Tikka Masala",
-    description: "Indian curry with tender chicken in spicy sauce",
+    description: "Curry indiano com frango macio em um molho bem temperado",
   },
   {
     image: dish3,
     title: "Caprese Salad",
-    description: "Fresh tomatoes, mozzarella, and basil with balsamic glaze",
+    description:
+      "Tomates frescos, muçarela e manjericão com redução de balsâmico",
   },
   {
     image: dish4,
     title: "Sushi Roll",
-    description: "Assorted seafood and vegetables wrapped in seaweed and rice",
+    description:
+      "Seleção de frutos do mar e vegetais enrolados em alga e arroz",
   },
   {
     image: dish5,
     title: "Chocolate Lava Cake",
-    description: "Decadent chocolate cake with a gooey center",
+    description: "Bolo de chocolate irresistível com recheio cremoso no centro",
   },
   {
     image: dish6,
     title: "Greek Salad",
-    description: "Crisp lettuce, olives, feta cheese, and tangy dressing",
+    description: "Alface crocante, azeitonas, queijo feta e molho cítrico",
   },
   {
     image: dish7,
     title: "Pad Thai",
-    description: "Stir-fried rice noodles with shrimp, tofu, and peanuts",
+    description: "Macarrão de arroz salteado com camarão, tofu e amendoim",
   },
   {
     image: dish8,
     title: "Peking Duck",
-    description: "Crispy duck with pancakes, cucumber, and hoisin sauce",
+    description: "Pato crocante servido com panquecas, pepino e molho hoisin",
   },
   {
     image: dish9,
     title: "Beef Wellington",
-    description: "Tender beef filet wrapped in pastry with mushrooms and herbs",
+    description:
+      "Filé de carne macia envolto em massa folhada com cogumelos e ervas",
   },
   {
     image: dish10,
     title: "Tiramisu",
     description:
-      "Italian dessert with layers of coffee-soaked biscuits and mascarpone",
+      "Sobremesa italiana com camadas de biscoitos embebidos em café e mascarpone",
   },
 ];
 
 export const ABOUT = {
-  header: "We love cooking!",
+  header: "Nós adoramos cozinhar!",
   content:
-    "At Restaura, we believe that great food goes beyond taste; it tells a story of dedication and creativity. From our chef's signature creations to our attentive service, every detail is curated to ensure your visit is nothing short of exceptional. Whether you're savoring our renowned Tikka Kebab or exploring our diverse menu inspired by global flavors, each dish is a celebration of flavor and innovation. Join us for a culinary journey where every bite leaves a lasting impression. Experience Restaura—where every meal is a masterpiece.",
+    "No Restaura, acreditamos que uma ótima comida vai além do sabor: ela conta uma história de dedicação e criatividade. Das criações exclusivas do nosso chef ao nosso atendimento atencioso, cada detalhe é pensado para tornar sua visita verdadeiramente especial. Seja saboreando o nosso famoso Tikka Kebab ou explorando nosso cardápio diverso, inspirado em sabores do mundo todo, cada prato é uma celebração de sabor e inovação. Junte-se a nós em uma jornada gastronômica onde cada garfada deixa uma lembrança marcante. Viva o Restaura — onde cada refeição é uma obra-prima.",
 };
 
 export const MISSION =
-  "At our restaurant, our mission is to create delicious and memorable dining experiences.";
+  "Em nosso restaurante, nossa missão é criar experiências gastronômicas deliciosas e memoráveis.";
 
 export const CUSINES = [
   {
@@ -93,21 +96,21 @@ export const CUSINES = [
     image: italian,
     title: "Italian",
     description:
-      "Experience the flavors of Italy with our exquisite Italian cuisine, featuring traditional recipes and contemporary dishes.",
+      "Experimente os sabores da Itália com nossa requintada culinária italiana, reunindo receitas tradicionais e releituras contemporâneas.",
   },
   {
     number: "02.",
     image: japanese,
     title: "Japanese",
     description:
-      "Delight in the art of Japanese culinary excellence, offering a fusion of classic and modern flavors.",
+      "Encante-se com a arte da culinária japonesa, oferecendo uma fusão de sabores clássicos e modernos.",
   },
   {
     number: "03.",
     image: indian,
     title: "Indian",
     description:
-      "Indulge in the rich and diverse tastes of India, with a menu that celebrates the country's culinary heritage.",
+      "Desfrute dos sabores ricos e diversos da Índia, com um menu que celebra a herança culinária do país.",
   },
 ];
 
@@ -115,13 +118,16 @@ export const REVIEW = {
   name: "Xaviour Fernando",
   profession: "Food Critic",
   content:
-    "“As a seasoned food critic, my expectations are always high when stepping into a new dining establishment. Restaura, with its unassuming exterior and elegantly designed interior, promised a unique culinary experience from the moment I walked in. And I must say, it delivered beyond my expectations.”",
+    "Como um crítico gastronômico experiente, minhas expectativas são sempre altas ao entrar em um novo restaurante. O Restaura, com seu exterior discreto e interior elegantemente projetado, prometia uma experiência culinária única desde o momento em que atravessei a porta. E devo dizer: superou todas as minhas expectativas.",
 };
 
 export const CONTACT = [
-  { key: "address", value: "Address: 123 Main Street, Paris, France, 345678" },
-  { key: "phone", value: "Phone: 123-456-7890" },
-  { key: "email", value: "Email: contact@restaurant.com" },
+  {
+    key: "address",
+    value: "Endereço : 123 Main Street, Paris, France, 345678",
+  },
+  { key: "phone", value: "Telefone: 123-456-7890" },
+  { key: "email", value: "E-mail: contact@restaurant.com" },
 ];
 
 export const SOCIAL_MEDIA_LINKS = [

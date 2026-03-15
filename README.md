@@ -4,7 +4,7 @@
 
 <!-- Banner -->
 
-![Restaura – Experiência Gastronômica Digital](https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop "Restaura – Experiência Gastronômica Digital")
+![Restaura – Experiência Gastronômica Digital](https://res.cloudinary.com/delo0gvyb/image/upload/v1773603971/Restaura_pbwk0a.webp "Restaura – Experiência Gastronômica Digital")
 
 <div align="left">
 
@@ -50,7 +50,7 @@
 ## 📌 Sobre
 
 O **Restaura** é uma aplicação front-end criada como landing page para um restaurante fictício, com foco em **apresentar o cardápio**, **equipe**, **missão**, **ambiente** e **formas de contato** de forma visualmente atrativa e responsiva.  
-O objetivo principal é **demonstrar boas práticas de UI/UX com React + Vite + TailwindCSS**, fornecendo uma base que pode ser facilmente adaptada para restaurantes reais ou outros negócios do ramo alimentício.
+O objetivo principal é **demonstrar boas práticas de UI/UX com React + Vite + TailwindCSS + Motion**, fornecendo uma base que pode ser facilmente adaptada para restaurantes reais ou outros negócios do ramo alimentício com animações modernas e elegantes.
 
 ## 🧩 Tecnologias
 
