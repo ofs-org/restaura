@@ -41,9 +41,9 @@
 [⚙️ Configuração](#-configuração) <br>
 [📜 Scripts disponíveis](#-scripts-disponíveis) <br>
 [🛣️ Rotas](#-rotas) <br>
-[🤝 Contribuidores - proprietário](#-contributors-or-owners) <br>
-[📞 Contato](#-contact) <br>
-[📄 Licença](#-license)
+[🤝 Contribuidores - proprietário](#-contribuidores-ou-proprietário) <br>
+[📞 Contato](#-contato) <br>
+[📄 Licença](#-licença)
 
 </div>
 
@@ -174,7 +174,7 @@ Os scripts configurados em `package.json` são:
 Este projeto é uma **single page application** simples construída com React e Vite, sem uso de `react-router-dom`.  
 Todas as seções (Hero, Sobre, Pratos, Avaliações, Contato, etc.) são renderizadas dentro da mesma página principal (`App.jsx`), com navegação feita via **links de âncora** na `NavBar`.
 
-## ✅ Contributors or owners
+## ✅ Contribuidores ou proprietário
 
 >
 
@@ -236,7 +236,7 @@ Colabore: Os mantenedores do projeto podem solicitar alterações ou fornecer fe
 
  </details>
 
-## 📞 Contact
+## 📞 Contato
 
 [![Lindekin](https://img.shields.io/badge/--path?style=social&logo=Linkedin&logoColor=%230664C1&logoSize=auto&label=Linkedin&labelColor=%23fff&cacheSeconds=https%3A%2F%2Fwww.linkedin.com%2Fin%2Femmanuel-marcos-oliveira%2F)](https://www.linkedin.com/in/emmanuel-marcos-oliveira/)
 [![WhatsApp](https://img.shields.io/badge/--path?style=social&logo=WhatsApp&logoColor=%231F3833&logoSize=auto&label=WhatsApp&color=%23fff&cacheSeconds=https%3A%2F%2Fwa.me%2F5511968336094)](https://wa.me/5511968336094)
@@ -244,7 +244,7 @@ Colabore: Os mantenedores do projeto podem solicitar alterações ou fornecer fe
 
 - [x] <sub>😁Obrigado por chegar até aqui!<sub>
 
-## 📄 License
+## 📄 Licença
 
 ![Static Badge](https://img.shields.io/badge/--path?style=plastic&logo=mit&logoSize=auto&label=license%20MIT&labelColor=%23555555&color=%2397CA00)<br>
 
