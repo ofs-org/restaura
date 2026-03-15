@@ -4,7 +4,7 @@
 
 <!-- Banner -->
 
-![Restaura – Experiência Gastronômica Digital](https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg?auto=compress&cs=tinysrgb&w=568&h=320&fit=crop "Restaura – Experiência Gastronômica Digital")
+![Restaura – Experiência Gastronômica Digital](https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop "Restaura – Experiência Gastronômica Digital")
 
 <div align="left">
 
@@ -12,8 +12,7 @@
 [![Vite](https://img.shields.io/badge/Vite-6.3.1-B73BFE?style=plastic&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.1.5-0EA5E9?style=plastic&logo=tailwindcss&logoColor=FFFFFF)](https://tailwindcss.com/)
 [![Framer Motion](https://img.shields.io/badge/Framer%20Motion-12.15.0-0055FF?style=plastic&logo=framer&logoColor=FFFFFF)](https://www.framer.com/motion/)
-[![React Icons](https://img.shields.io/badge/React%20Icons-5.5.0-20232A?style=plastic&logo=react&logoColor=61DAFB)](https://react-icons.github.io/react-icons/)
-[![ESLint](https://img.shields.io/badge/ESLint-9.22.0-4B32C3?style=plastic&logo=eslint&logoColor=FFFFFF)](https://eslint.org/)
+[![React Icons](https://img.shields.io/badge/React%20Icons-5.5.0-20232A?style=plastic&logo=react&logoColor=61DAFB)](https://react-icons.github.io/react-icons/)[![ESLint](https://img.shields.io/badge/ESLint-9.22.0-4B32C3?style=plastic&logo=eslint&logoColor=FFFFFF)](https://eslint.org/)
 [![Prettier](https://img.shields.io/badge/Prettier-3.5.3-F7B93E?style=plastic&logo=prettier&logoColor=000000)](https://prettier.io/)
 
 </div>
@@ -26,8 +25,6 @@
 **Restaura** é uma landing page moderna e responsiva para restaurantes, cafés e negócios gastronômicos que desejam apresentar seu cardápio, missão, avaliações de clientes e informações de contato de forma elegante e envolvente.
 
 </div>
-
----
 
 <div align="left">
 
@@ -44,7 +41,7 @@
 [⚙️ Configuração](#-configuração) <br>
 [📜 Scripts-disponíveis](#-scripts-disponíveis) <br>
 [🛣️ Rotas](#-rotas) <br>
-[🤝 Contribuidores--proprietário](#-contributors-or-owners) <br
+[🤝 Contribuidores--proprietário](#-contributors-or-owners) <br>
 [📞 Contato](#-contact) <br>
 [📄 Licença](#-license)
 
