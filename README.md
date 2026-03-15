@@ -2,9 +2,11 @@
 
 ## 🍽️ Restaura – Landing Page para Restaurantes Modernos
 
+<!-- Banner -->
+
 ![Restaura – Experiência Gastronômica Digital](https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg?auto=compress&cs=tinysrgb&w=568&h=320&fit=crop "Restaura – Experiência Gastronômica Digital")
 
-<!-- Badges principais do projeto -->
+<div align="left">
 
 [![React](https://img.shields.io/badge/React-19.0.0-61DAFB?style=plastic&logo=react&logoColor=000000)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-6.3.1-B73BFE?style=plastic&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
@@ -14,14 +16,12 @@
 [![ESLint](https://img.shields.io/badge/ESLint-9.22.0-4B32C3?style=plastic&logo=eslint&logoColor=FFFFFF)](https://eslint.org/)
 [![Prettier](https://img.shields.io/badge/Prettier-3.5.3-F7B93E?style=plastic&logo=prettier&logoColor=000000)](https://prettier.io/)
 
+</div>
+
 <!-- Badges de GitHub (stars e fork) -->
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/ofs-org/restaura?style=plastic&logo=github&logoColor=FFFFFF&label=Stars&color=24292F)](https://github.com/ofs-org/restaura/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/ofs-org/restaura?style=plastic&logo=github&logoColor=FFFFFF&label=Fork&color=0D9488)](https://github.com/ofs-org/restaura/fork)
-
----
-
-<!-- Banner -->
 
 **Restaura** é uma landing page moderna e responsiva para restaurantes, cafés e negócios gastronômicos que desejam apresentar seu cardápio, missão, avaliações de clientes e informações de contato de forma elegante e envolvente.
 
@@ -29,23 +29,23 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 <!-- Menu com ícones representando os tópicos -->
 
 `Menu`
 
-[🏠 Início](#-restaura--landing-page-para-restaurantes-modernos) ・ <br>
-[ℹ️ Sobre](#-sobre) ・ <br>
-[🧩 Tecnologias](#-tecnologias) ・ <br>
-[✨ Funcionalidades](#-funcionalidades) ・ <br>
-[🗂️ Arquitetura-de-dados](#-arquitetura-de-dados) ・ <br>
-[📁 Estrutura-do-projeto](#-estrutura-do-projeto) ・ <br>
-[⚙️ Configuração](#-configuração) ・ <br>
-[📜 Scripts-disponíveis](#-scripts-disponíveis) ・ <br>
-[🛣️ Rotas](#-rotas) ・ <br>
-[🤝 Contribuidores--proprietário](#-contributors-or-owners) ・ <br
-[📞 Contato](#-contact) ・<br>
+[🏠 Início](#-restaura--landing-page-para-restaurantes-modernos) <br>
+[ℹ️ Sobre](#-sobre) <br>
+[🧩 Tecnologias](#-tecnologias) <br>
+[✨ Funcionalidades](#-funcionalidades) <br>
+[🗂️ Arquitetura-de-dados](#-arquitetura-de-dados) <br>
+[📁 Estrutura-do-projeto](#-estrutura-do-projeto) <br>
+[⚙️ Configuração](#-configuração) <br>
+[📜 Scripts-disponíveis](#-scripts-disponíveis) <br>
+[🛣️ Rotas](#-rotas) <br>
+[🤝 Contribuidores--proprietário](#-contributors-or-owners) <br
+[📞 Contato](#-contact) <br>
 [📄 Licença](#-license)
 
 </div>
