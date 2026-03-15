@@ -36,12 +36,12 @@
 [ℹ️ Sobre](#-sobre) <br>
 [🧩 Tecnologias](#-tecnologias) <br>
 [✨ Funcionalidades](#-funcionalidades) <br>
-[🗂️ Arquitetura-de-dados](#-arquitetura-de-dados) <br>
-[📁 Estrutura-do-projeto](#-estrutura-do-projeto) <br>
+[🗂️ Arquitetura de dados](#-arquitetura-de-dados) <br>
+[📁 Estrutura do projeto](#-estrutura-do-projeto) <br>
 [⚙️ Configuração](#-configuração) <br>
-[📜 Scripts-disponíveis](#-scripts-disponíveis) <br>
+[📜 Scripts disponíveis](#-scripts-disponíveis) <br>
 [🛣️ Rotas](#-rotas) <br>
-[🤝 Contribuidores--proprietário](#-contributors-or-owners) <br>
+[🤝 Contribuidores - proprietário](#-contributors-or-owners) <br>
 [📞 Contato](#-contact) <br>
 [📄 Licença](#-license)
 
@@ -194,67 +194,67 @@ Todas as seções (Hero, Sobre, Pratos, Avaliações, Contato, etc.) são render
 
 ## ✅ Contributors or owners
 
-- [x] <img height="64px" src="https://res.cloudinary.com/delo0gvyb/image/upload/v1752287431/profile_mjvmdb.png"><br>
-- [x] <small>Emmanuel Oliveira</small>
-- [x] developed by 💖 [Emmanuel Oliveira](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit)<br>
-- [x] &copy; Todos os Direitos Reservados
+<img height="64px" src="https://res.cloudinary.com/delo0gvyb/image/upload/v1752287431/profile_mjvmdb.png"><br>
+<small>Emmanuel Oliveira</small>
+developed by 💖 [Emmanuel Oliveira](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit)<br>
+&copy; Todos os Direitos Reservados
 
 ---
 
 ### ✅ Contribute to the projects
 
-> - [x] Clique na seta abaixo e veja como você pode contribuir para o projeto
+> Clique na seta abaixo e veja como você pode contribuir para o projeto
 
-- [x] <details close>
-- [x] <summary>Como fazer uma contribuição ao Projeto ?</summary>
+ <details close>
+ <summary>Como fazer uma contribuição ao Projeto ?</summary>
 
-- [x] Familiarize-se com a documentação do projeto, que geralmente inclui guias de instalação.<br>
-- [x] Explore o código do projeto para entender sua estrutura e funcionamento.
-- [x] <br>
+Familiarize-se com a documentação do projeto, que geralmente inclui guias de instalação.<br>
+Explore o código do projeto para entender sua estrutura e funcionamento.
+<br>
 
-- [x] **Faça um Fork**
+**Faça um Fork**
 
-- [x] Crie uma cópia (fork) do repositório original em sua conta do GitHub.<br>
+Crie uma cópia (fork) do repositório original em sua conta do GitHub.<br>
 
-- [x] <img alt="Static Badge" src="https://img.shields.io/badge/-path?style=social&logo=git&label=GitHub%20Docs&color=%23000">
-- [x] <a href="https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo"></a>
+ <img alt="Static Badge" src="https://img.shields.io/badge/-path?style=social&logo=git&label=GitHub%20Docs&color=%23000">
+ <a href="https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo"></a>
 
-- [x] **Clone o Repositório**
+**Clone o Repositório**
 
-- [x] Isso criará uma cópia local do projeto, onde você poderá fazer suas modificações.
+Isso criará uma cópia local do projeto, onde você poderá fazer suas modificações.
 
-- [x] <img alt="Static Badge" src="https://img.shields.io/badge/-path?style=social&logo=git&label=GitHub%20Docs&color=%23000">
-- [x] <a href="https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository"></a>
+ <img alt="Static Badge" src="https://img.shields.io/badge/-path?style=social&logo=git&label=GitHub%20Docs&color=%23000">
+ <a href="https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository"></a>
 
-- [x] **Crie uma Nova Branch:**
+**Crie uma Nova Branch:**
 
-- [x] Crie uma nova branch para isolar suas alterações.<br>
-- [x] Isso facilita a organização do seu trabalho e a criação de pull requests.<br>
+Crie uma nova branch para isolar suas alterações.<br>
+Isso facilita a organização do seu trabalho e a criação de pull requests.<br>
 
-- [x] **Faça as Alterações:**
+**Faça as Alterações:**
 
-- [x] Crie funcionalidades, mude estilos ou resolva `bugs` que irão contribuir para a melhoria do Projeto.<br>
+Crie funcionalidades, mude estilos ou resolva `bugs` que irão contribuir para a melhoria do Projeto.<br>
 
-- [x] **Crie um Pull Request:**
+**Crie um Pull Request:**
 
-- [x] Inclua uma descrição clara das suas alterações e explique como elas resolvem o problema ou melhoram o projeto.<br>
-- [x] Solicitação: Envie um pull request para o repositório original, solicitando que suas alterações sejam incorporadas ao projeto.
+Inclua uma descrição clara das suas alterações e explique como elas resolvem o problema ou melhoram o projeto.<br>
+Solicitação: Envie um pull request para o repositório original, solicitando que suas alterações sejam incorporadas ao projeto.
 
-- [x] <br>
+ <br>
 
-- [x] **Revise e Responda a Feedback:**
+**Revise e Responda a Feedback:**
 
-- [x] Colabore: Os mantenedores do projeto podem solicitar alterações ou fornecer feedback sobre o seu código.
+Colabore: Os mantenedores do projeto podem solicitar alterações ou fornecer feedback sobre o seu código.
 
-- [x] </details>
+ </details>
 
 ---
 
 ## 📞 Contact
 
-- [x] [![Lindekin](https://img.shields.io/badge/--path?style=social&logo=Linkedin&logoColor=%230664C1&logoSize=auto&label=Linkedin&labelColor=%23fff&cacheSeconds=https%3A%2F%2Fwww.linkedin.com%2Fin%2Femmanuel-marcos-oliveira%2F)](https://www.linkedin.com/in/emmanuel-marcos-oliveira/)
-- [x] [![WhatsApp](https://img.shields.io/badge/--path?style=social&logo=WhatsApp&logoColor=%231F3833&logoSize=auto&label=WhatsApp&color=%23fff&cacheSeconds=https%3A%2F%2Fwa.me%2F5511968336094)](https://wa.me/5511968336094)
-- [x] <a href="mailto:ofs.dev.br@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/--path?style=social&logo=Gmail&logoSize=auto&label=Gmail&cacheSeconds=--query&link=mailto%3Adev-oliveira%40outlook.com.br%22"> </a>
+[![Lindekin](https://img.shields.io/badge/--path?style=social&logo=Linkedin&logoColor=%230664C1&logoSize=auto&label=Linkedin&labelColor=%23fff&cacheSeconds=https%3A%2F%2Fwww.linkedin.com%2Fin%2Femmanuel-marcos-oliveira%2F)](https://www.linkedin.com/in/emmanuel-marcos-oliveira/)
+[![WhatsApp](https://img.shields.io/badge/--path?style=social&logo=WhatsApp&logoColor=%231F3833&logoSize=auto&label=WhatsApp&color=%23fff&cacheSeconds=https%3A%2F%2Fwa.me%2F5511968336094)](https://wa.me/5511968336094)
+<a href="mailto:ofs.dev.br@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/--path?style=social&logo=Gmail&logoSize=auto&label=Gmail&cacheSeconds=--query&link=mailto%3Adev-oliveira%40outlook.com.br%22"> </a>
 
 - [x] <sub>😁Obrigado por chegar até aqui!<sub>
 
@@ -262,9 +262,11 @@ Todas as seções (Hero, Sobre, Pratos, Avaliações, Contato, etc.) são render
 
 ## 📄 License
 
-- [x] ![Static Badge](https://img.shields.io/badge/--path?style=plastic&logo=mit&logoSize=auto&label=license%20MIT&labelColor=%23555555&color=%2397CA00)<br>
-- [x] Released in 2026 – This project is under the **MIT license**.<br>
-- [x] <br>
-- [x] <div align="center">
-- [x] <strong>⭐ Se este projeto foi útil para você, considere dar uma estrela!</strong>
-- [x] </div>
+![Static Badge](https://img.shields.io/badge/--path?style=plastic&logo=mit&logoSize=auto&label=license%20MIT&labelColor=%23555555&color=%2397CA00)<br>
+
+Released in 2026 – This project is under the **MIT license**.<br>
+<br>
+
+<div align="center">
+<strong>⭐ Se este projeto foi útil para você, considere dar uma estrela!</strong>
+</div>
