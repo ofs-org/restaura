@@ -47,14 +47,10 @@
 
 </div>
 
----
-
 ### 📌 Sobre
 
 O **Restaura** é uma aplicação front-end criada como landing page para um restaurante fictício, com foco em **apresentar o cardápio**, **equipe**, **missão**, **ambiente** e **formas de contato** de forma visualmente atrativa e responsiva.  
 O objetivo principal é **demonstrar boas práticas de UI/UX com React + Vite + TailwindCSS**, fornecendo uma base que pode ser facilmente adaptada para restaurantes reais ou outros negócios do ramo alimentício.
-
----
 
 ### 🧩 Tecnologias
 
@@ -79,8 +75,6 @@ O objetivo principal é **demonstrar boas práticas de UI/UX com React + Vite + 
 - **Prettier (3.5.3)**  
   Formatador de código para manter um estilo consistente em todo o projeto.
 
----
-
 ### ✨ Funcionalidades
 
 - **Seção Hero / Banner principal**  
@@ -104,8 +98,6 @@ O objetivo principal é **demonstrar boas práticas de UI/UX com React + Vite + 
 - **Footer informativo**  
   Rodapé com créditos, direitos autorais e links importantes.
 
----
-
 ### 🗂️ Arquitetura de dados
 
 Esta seção documenta como os dados são gerenciados na aplicação.
@@ -116,8 +108,6 @@ Atualmente, o projeto utiliza **dados locais** definidos em `src/utils/data.js`,
 Essa abordagem facilita a prototipação e pode ser posteriormente substituída por uma API real.
 
 > Caso seja necessário integrar com uma API real.
-
----
 
 ### 📁 Estrutura do Projeto
 
@@ -142,8 +132,6 @@ src/
 └── main.jsx                # Ponto de entrada da aplicação React + Vite
 ```
 
----
-
 ### ⚙️ Configuração
 
 Siga os passos abaixo para clonar e executar o projeto localmente.
@@ -165,8 +153,6 @@ npm run dev
 http://localhost:5173
 ```
 
----
-
 ### 📜 Scripts disponíveis
 
 Os scripts configurados em `package.json` são:
@@ -183,23 +169,24 @@ Os scripts configurados em `package.json` são:
 - **`npm run lint`**  
   Roda o ESLint em todo o projeto para verificar problemas de código.
 
----
-
 ### 🛣️ Rotas
 
 Este projeto é uma **single page application** simples construída com React e Vite, sem uso de `react-router-dom`.  
 Todas as seções (Hero, Sobre, Pratos, Avaliações, Contato, etc.) são renderizadas dentro da mesma página principal (`App.jsx`), com navegação feita via **links de âncora** na `NavBar`.
 
----
-
 ## ✅ Contributors or owners
 
+<div>
+<div align="left">
 <img height="64px" src="https://res.cloudinary.com/delo0gvyb/image/upload/v1752287431/profile_mjvmdb.png"><br>
+
+</div>
+<div align="right">
 <small>Emmanuel Oliveira</small>
 developed by 💖 [Emmanuel Oliveira](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit)<br>
 &copy; Todos os Direitos Reservados
-
----
+</div>
+</div>
 
 ### ✅ Contribute to the projects
 
@@ -248,8 +235,6 @@ Colabore: Os mantenedores do projeto podem solicitar alterações ou fornecer fe
 
  </details>
 
----
-
 ## 📞 Contact
 
 [![Lindekin](https://img.shields.io/badge/--path?style=social&logo=Linkedin&logoColor=%230664C1&logoSize=auto&label=Linkedin&labelColor=%23fff&cacheSeconds=https%3A%2F%2Fwww.linkedin.com%2Fin%2Femmanuel-marcos-oliveira%2F)](https://www.linkedin.com/in/emmanuel-marcos-oliveira/)
@@ -257,8 +242,6 @@ Colabore: Os mantenedores do projeto podem solicitar alterações ou fornecer fe
 <a href="mailto:ofs.dev.br@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/--path?style=social&logo=Gmail&logoSize=auto&label=Gmail&cacheSeconds=--query&link=mailto%3Adev-oliveira%40outlook.com.br%22"> </a>
 
 - [x] <sub>😁Obrigado por chegar até aqui!<sub>
-
----
 
 ## 📄 License
 
