@@ -28,6 +28,7 @@ const Expertise = () => {
     <section id="expertise">
       <h2 className="my-8 text-center text-3xl tracking-tighter">
         Nossas Especialidades
+
       </h2>
       <motion.div
         initial="hidden"

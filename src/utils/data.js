@@ -33,13 +33,16 @@ export const DISHES = [
   {
     image: dish2,
     title: "Chicken Tikka Masala",
+
     description: "Curry indiano com frango macio em um molho bem temperado",
+
   },
   {
     image: dish3,
     title: "Caprese Salad",
     description:
-      "Tomates frescos, muçarela e manjericão com redução de balsâmico",
+      "Tomates frescos, muçarela e manjericão com redução de vinagre balsâmico",
+
   },
   {
     image: dish4,
@@ -47,14 +50,18 @@ export const DISHES = [
     description:
       "Seleção de frutos do mar e vegetais enrolados em alga e arroz",
   },
+ 
   {
     image: dish5,
-    title: "Chocolate Lava Cake",
-    description: "Bolo de chocolate irresistível com recheio cremoso no centro",
+    title: "Oatmeal",
+    description:
+      "Mingau de aveia cremoso com laranja, mirtilos e chocolate amargo — uma opção nutritiva e equilibrada para o café da manhã.",
+
   },
   {
     image: dish6,
     title: "Greek Salad",
+
     description: "Alface crocante, azeitonas, queijo feta e molho cítrico",
   },
   {
@@ -71,20 +78,26 @@ export const DISHES = [
     image: dish9,
     title: "Beef Wellington",
     description:
+
       "Filé de carne macia envolto em massa folhada com cogumelos e ervas",
+
   },
   {
     image: dish10,
-    title: "Tiramisu",
+    title: "Ramen",
     description:
+
       "Sobremesa italiana com camadas de biscoitos embebidos em café e mascarpone",
+
   },
 ];
 
 export const ABOUT = {
+
   header: "Nós adoramos cozinhar!",
   content:
     "No Restaura, acreditamos que uma ótima comida vai além do sabor: ela conta uma história de dedicação e criatividade. Das criações exclusivas do nosso chef ao nosso atendimento atencioso, cada detalhe é pensado para tornar sua visita verdadeiramente especial. Seja saboreando o nosso famoso Tikka Kebab ou explorando nosso cardápio diverso, inspirado em sabores do mundo todo, cada prato é uma celebração de sabor e inovação. Junte-se a nós em uma jornada gastronômica onde cada garfada deixa uma lembrança marcante. Viva o Restaura — onde cada refeição é uma obra-prima.",
+
 };
 
 export const MISSION =
@@ -96,7 +109,9 @@ export const CUSINES = [
     image: italian,
     title: "Italian",
     description:
+
       "Experimente os sabores da Itália com nossa requintada culinária italiana, reunindo receitas tradicionais e releituras contemporâneas.",
+
   },
   {
     number: "02.",
@@ -110,7 +125,9 @@ export const CUSINES = [
     image: indian,
     title: "Indian",
     description:
+
       "Desfrute dos sabores ricos e diversos da Índia, com um menu que celebra a herança culinária do país.",
+
   },
 ];
 
@@ -118,7 +135,9 @@ export const REVIEW = {
   name: "Xaviour Fernando",
   profession: "Food Critic",
   content:
+
     "Como um crítico gastronômico experiente, minhas expectativas são sempre altas ao entrar em um novo restaurante. O Restaura, com seu exterior discreto e interior elegantemente projetado, prometia uma experiência culinária única desde o momento em que atravessei a porta. E devo dizer: superou todas as minhas expectativas.",
+
 };
 
 export const CONTACT = [

@@ -23,14 +23,14 @@ export function NavBar() {
   };
 
   return (
-    <nav className="fixed flex flex-col items-center justify-center top-4 w-full z-50">
-      <div className="backdrop-blur-lg flex items-center justify-between lg:m-2 lg:rounded-full lg:shadow-lg lg:w-[50rem] overflow-y-hidden p-4 w-full">
+    <nav className="fixed top-4 z-50 flex w-full flex-col items-center justify-center">
+      <div className="flex w-full items-center justify-between overflow-y-hidden p-4 backdrop-blur-lg lg:m-2 lg:w-200 lg:rounded-full lg:shadow-lg">
         <a href="#intro">
           {" "}
           <img src={logo} alt=" logo Restaura" width={80} height={80} />
         </a>
 
-        <div className="hidden lg:flex space-x-6">
+        <div className="hidden space-x-6 lg:flex">
           {LINKS.map((link, index) => (
             <a
               className={`text-sm ${index !== 0 ? "border-l-2 border-neutral-300/20 pl-2" : ""} hover:opacity-50`}
@@ -50,7 +50,7 @@ export function NavBar() {
         </div>
       </div>
       {isMobileMenuOpen && (
-        <div className="backdrop-blur-lg lg:hidden w-full">
+        <div className="w-full backdrop-blur-lg lg:hidden">
           {LINKS.map((link, index) => (
             <a
               className="block p-4 tracking-tighter uppercase"
