@@ -179,10 +179,14 @@ Todas as seções (Hero, Sobre, Pratos, Avaliações, Contato, etc.) são render
 >
 
 <div align="left">
-<img height="64px" src="https://res.cloudinary.com/delo0gvyb/image/upload/v1752287431/profile_mjvmdb.png"><br>
+<img height="64px" src="https://res.cloudinary.com/delo0gvyb/image/upload/v1752287431/profile_mjvmdb.png">
+
 <small>Emmanuel Oliveira</small>
-developed by 💖 [Emmanuel Oliveira](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit)<br>
+
+developed by 💖 [Emmanuel Oliveira](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit)
+
 &copy; Todos os Direitos Reservados
+
 </div>
 
 ### ✅ Contribute to the projects
