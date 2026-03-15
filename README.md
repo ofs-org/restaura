@@ -189,7 +189,7 @@ developed by 💖 [Emmanuel Oliveira](https://www.linkedin.com/feed/?trk=homepag
 
 </div>
 
-### ✅ Contribute to the projects
+### ✅ Contribua para o projeto!
 
 > Clique na seta abaixo e veja como você pode contribuir para o projeto
 
