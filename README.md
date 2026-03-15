@@ -47,12 +47,12 @@
 
 </div>
 
-### 📌 Sobre
+## 📌 Sobre
 
 O **Restaura** é uma aplicação front-end criada como landing page para um restaurante fictício, com foco em **apresentar o cardápio**, **equipe**, **missão**, **ambiente** e **formas de contato** de forma visualmente atrativa e responsiva.  
 O objetivo principal é **demonstrar boas práticas de UI/UX com React + Vite + TailwindCSS**, fornecendo uma base que pode ser facilmente adaptada para restaurantes reais ou outros negócios do ramo alimentício.
 
-### 🧩 Tecnologias
+## 🧩 Tecnologias
 
 - **React (19.0.0)**  
   Biblioteca JavaScript para construção de interfaces de usuário baseadas em componentes.
@@ -75,7 +75,7 @@ O objetivo principal é **demonstrar boas práticas de UI/UX com React + Vite + 
 - **Prettier (3.5.3)**  
   Formatador de código para manter um estilo consistente em todo o projeto.
 
-### ✨ Funcionalidades
+## ✨ Funcionalidades
 
 - **Seção Hero / Banner principal**  
   Apresenta o nome do restaurante, com um vídeo de fundo.
@@ -98,7 +98,7 @@ O objetivo principal é **demonstrar boas práticas de UI/UX com React + Vite + 
 - **Footer informativo**  
   Rodapé com créditos, direitos autorais e links importantes.
 
-### 🗂️ Arquitetura de dados
+## 🗂️ Arquitetura de dados
 
 Esta seção documenta como os dados são gerenciados na aplicação.
 
@@ -109,7 +109,7 @@ Essa abordagem facilita a prototipação e pode ser posteriormente substituída 
 
 > Caso seja necessário integrar com uma API real.
 
-### 📁 Estrutura do Projeto
+## 📁 Estrutura do Projeto
 
 ```txt
 src/
@@ -132,7 +132,7 @@ src/
 └── main.jsx                # Ponto de entrada da aplicação React + Vite
 ```
 
-### ⚙️ Configuração
+## ⚙️ Configuração
 
 Siga os passos abaixo para clonar e executar o projeto localmente.
 
@@ -153,7 +153,7 @@ npm run dev
 http://localhost:5173
 ```
 
-### 📜 Scripts disponíveis
+## 📜 Scripts disponíveis
 
 Os scripts configurados em `package.json` são:
 
@@ -169,23 +169,20 @@ Os scripts configurados em `package.json` são:
 - **`npm run lint`**  
   Roda o ESLint em todo o projeto para verificar problemas de código.
 
-### 🛣️ Rotas
+## 🛣️ Rotas
 
 Este projeto é uma **single page application** simples construída com React e Vite, sem uso de `react-router-dom`.  
 Todas as seções (Hero, Sobre, Pratos, Avaliações, Contato, etc.) são renderizadas dentro da mesma página principal (`App.jsx`), com navegação feita via **links de âncora** na `NavBar`.
 
 ## ✅ Contributors or owners
 
-<div>
+>
+
 <div align="left">
 <img height="64px" src="https://res.cloudinary.com/delo0gvyb/image/upload/v1752287431/profile_mjvmdb.png"><br>
-
-</div>
-<div align="right">
 <small>Emmanuel Oliveira</small>
 developed by 💖 [Emmanuel Oliveira](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit)<br>
 &copy; Todos os Direitos Reservados
-</div>
 </div>
 
 ### ✅ Contribute to the projects
